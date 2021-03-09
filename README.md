@@ -2,7 +2,7 @@
 
 start your mongodb server and connect backend with your mongoDB url
 run backend with - npm start
-run frontend with - npm start
+ and run frontend with - npm start
 
 Now you can register your profile in this app
 and after register you can log in with your username and password.
