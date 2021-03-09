@@ -1,4 +1,16 @@
-# registration-login-react-node.js-mongodb-express
+Dependencies used :  <br />
+axios  <br />
+react-validation <br />
+bcryptjs <br />
+body-parser <br />
+cors <br />
+express <br />
+jsonwebtoken <br />
+mongoose <br />
+nodemon <br />
+ 
+
+# registration-login-react-node.js-mongodb-express <br />
 
 start your mongodb server and connect backend with your mongoDB url <br />
 run backend with - npm start<br /> 
