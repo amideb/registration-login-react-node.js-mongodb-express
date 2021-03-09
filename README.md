@@ -1,6 +1,5 @@
 Dependencies used :  <br />
 axios  <br />
-react-validation <br />
 bcryptjs <br />
 body-parser <br />
 cors <br />
@@ -8,6 +7,7 @@ express <br />
 jsonwebtoken <br />
 mongoose <br />
 nodemon <br />
+jwt <br />
  
 
 # registration-login-react-node.js-mongodb-express <br />
