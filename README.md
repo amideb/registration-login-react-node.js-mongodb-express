@@ -10,9 +10,9 @@ nodemon <br />
 jwt <br />
  
 
-# registration-login-react-node.js-mongodb-express <br />
+# Registration login app with react node.js mongodb express <br />
 
-start your mongodb server and connect backend with your mongoDB url <br />
+Start your mongodb server and connect backend with your mongoDB url <br />
 run backend with - npm start<br /> 
  and run frontend with - npm start<br />
 
