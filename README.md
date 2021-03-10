@@ -24,3 +24,6 @@ Default role is user . But, You can add this roles to each user from database.<b
 After signin you can view your data with your token.<br />
 And there is a extra container that shows data according to your role.<br />
 
+![Screenshot (94)](https://user-images.githubusercontent.com/57451228/110567220-295d3e00-8177-11eb-89a5-9e47047eb4bb.png)
+
+
