@@ -25,5 +25,8 @@ After signin you can view your data with your token.<br />
 And there is a extra container that shows data according to your role.<br />
 
 ![Screenshot (94)](https://user-images.githubusercontent.com/57451228/110567220-295d3e00-8177-11eb-89a5-9e47047eb4bb.png)
+![Screenshot (93)](https://user-images.githubusercontent.com/57451228/110567295-44c84900-8177-11eb-93fd-fc45efd95ab3.png)
+![Screenshot (92)](https://user-images.githubusercontent.com/57451228/110567305-47c33980-8177-11eb-8f34-9f5f2d5e7e71.png)
+
 
 
